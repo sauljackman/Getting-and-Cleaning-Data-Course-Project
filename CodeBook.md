@@ -27,14 +27,13 @@ output: html_document
    Storage mode: integer
    Measurement: nominal
 
-          Values and labels    N    Percent 
-                                            
-   1   'Laying'               30   16.7 16.7
-   2   'Sitting'              30   16.7 16.7
-   3   'Standing'             30   16.7 16.7
-   4   'Walking'              30   16.7 16.7
-   5   'Walking_Downstairs'   30   16.7 16.7
-   6   'Walking_Upstairs'     30   16.7 16.7
+          Values and labels         N    Percent                                           
+          1 'Laying'                30    16.7                                           
+          2 'Sitting'               30    16.7                                           
+          3 'Standing'              30    16.7                                           
+          4 'Walking'               30    16.7                                           
+          5 'Walking Downstairs'    30    16.7                                           
+          6 'Walking Upstairs'      30    16.7                                           
 
 ===============================================================================================================
 
